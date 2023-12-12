@@ -1,0 +1,379 @@
+@font-face {
+    font-family: hello;
+    src: url(fonts/BerkshireSwash-Regular.ttf);
+}
+
+/* first page */
+
+.navbar-custmizeing {
+    background-color: #3d763e;
+    height: 100px;
+}
+
+.first-page {
+    background-image: linear-gradient(to right, #417b41, #5bb350);
+    height: 700px;
+    width: 1531px;
+}
+
+.heading1 {
+    color: #ffff;
+    font-family: hello;
+    margin-left: 160px;
+    margin-top: 100px;
+}
+
+.heading2 {
+    color: #ffff;
+    font-family: hello;
+    margin-left: 100px;
+    font-size: 80px;
+    margin-top: -30px;
+}
+
+.paragraph {
+    color: #ffff;
+    font-size: 20px;
+    margin-left: 130px;
+}
+
+.btn-desinging {
+    border-radius: 20px !important;
+    margin-left: 140px;
+}
+
+.right-side {
+    background-image: url(images/backgroundPattern.png);
+
+}
+
+/* second page */
+.second-page {
+    background-image: linear-gradient(to right, #417b41, #5bb350);
+    height: 800px;
+    width: 1531px;
+
+}
+
+.second-page-row {
+    background-color: #f1cb38;
+    height: 590px;
+    margin-top: 150px !important;
+    border-top-left-radius: 350px;
+    border-bottom-left-radius: 350px;
+}
+
+.second-page-img {
+    margin-left: -50px;
+}
+
+.second-page-heading {
+    font-family: hello;
+    color: #3d763e;
+    font-size: 70px;
+    margin-left: 50px;
+    margin-top: 70px;
+}
+
+.second-page-heading2 {
+    color: #3d763e;
+    margin-left: 60px;
+}
+
+.second-page-text {
+    color: #3d763e;
+    margin-left: 60px;
+    font-size: 20px;
+}
+
+/* third page */
+.third-page {
+    background-color: #3d763e;
+    height: 500px;
+    width: 1531px;
+}
+
+.star-icon {
+    color: #f1cb38;
+    font-size: 150px;
+    margin-top: 100px;
+
+}
+
+.icon {
+    text-align: center;
+}
+
+.third-page-heading {
+    color: #ffff;
+    margin-left: -10px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.third-page-text {
+    color: #ffff;
+    margin-left: -10px;
+    text-align: center;
+}
+
+/* forthpage */
+.forth-page {
+    background-color: #3d763e;
+    background-image: url(images/PattrenChef.png);
+    height: 400px;
+    width: 1531px;
+}
+
+.forth-page-heading {
+    color: #ffff;
+    font-family: hello;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 100px !important;
+}
+
+.forth-page-heading1 {
+    color: #ffff;
+    margin-top: -110px !important;
+    text-align: center;
+
+}
+
+/* fifthpage */
+.fifth-page {
+    background-color: #3d763e;
+    height: 900px;
+    width: 1531px;
+}
+
+.img-col {
+    text-align: center;
+}
+
+.chef-name {
+    color: #ffff !important;
+    margin-bottom: -20px;
+}
+
+.chef-data {
+    margin-top: -100px;
+
+}
+
+.chef-data1 {
+    color: #ffff;
+}
+
+.fifth-page-text {
+    color: #ffff;
+    text-align: center;
+    font-size: 20px;
+    background-image: url(images/PattrenChef2.png);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+
+}
+
+/* six page */
+.six-page {
+    background-color: #f39916;
+    height: 700px;
+    width: 1531px;
+    background-image: url(images/PattrenOrange.png);
+
+}
+
+.six-page-image {
+    width: 500px;
+    height: 500px;
+    margin-left: 120px;
+    margin-top: 100px;
+}
+
+.six-page-heading {
+    color: #ffff;
+    margin-top: 140px;
+}
+
+.six-page-text {
+    color: #ffff;
+    margin-top: 60px;
+    font-size: 17px;
+}
+
+.read-btn {
+    border-radius: 20px;
+    border: none;
+    background-color: #ffff;
+    width: 150px;
+    font-size: 20px;
+    height: 40px;
+
+}
+
+/* sevan page */
+.sevan-page {
+    background-color: #3d763e;
+    width: 1531px;
+    height: 500px;
+
+}
+
+.sevan-page-heading {
+    font-family: hello;
+    text-align: center;
+    font-size: 100px;
+    color: #ffff;
+    margin-top: 60px !important;
+}
+
+.sevan-page-text {
+    color: #ffff;
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.sevan-page-circle {
+    color: #ffff;
+    font-size: 30px;
+    margin: 10px;
+
+}
+
+.dot-col {
+    text-align: center;
+}
+
+/* eight page */
+.eight-page {
+    background-color: #5bb350;
+    background-image: url(images/PattrenChef2.png);
+    height: 430px;
+    width: 1531px;
+
+}
+
+.inne-eight-page {
+    background-color: #f1cb38;
+    height: 300px;
+    margin-top: 70px !important;
+    width: 100% !important;
+
+}
+
+.eight-page-heading {
+    color: #417b41;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.eight-page-heading1 {
+    color: #417b41;
+    text-align: center;
+    margin-top: -50px !important;
+
+}
+
+.eight-page-text {
+    color: #417b41;
+    text-align: center;
+}
+
+/* nine page */
+
+.nine-page {
+    background-color: #5bb350;
+    height: 1500px;
+    width: 1531px;
+}
+
+.product-data {
+    display: flex;
+    height: 400px;
+}
+
+.product-img {
+    margin-top: 50px;
+    width: 400px;
+    height: 400px;
+}
+
+.des {
+    color: #ffff;
+    margin-top: 130px;
+    margin-left: 30px;
+}
+
+/* tenth page */
+.tenth-page {
+    height: 700px;
+    width: 1531px;
+}
+
+.tenth-page-heading {
+    color: #417b41;
+    font-size: 100px;
+    font-family: hello;
+    text-align: center;
+    margin-top: 50px !important;
+}
+
+.tenth-page-text {
+    color: #417b41;
+    text-align: center;
+    font-size: 20px;
+    margin-top: -70px !important;
+}
+
+.tenth-page-email-input1 {
+    text-align: center;
+}
+
+.tenth-page-email-input1 input::placeholder {
+    font-size: 26px;
+    font-weight: 400;
+    margin-left: 30px;
+
+}
+
+.tenth-page-email-input {
+    width: 600px !important;
+    height: 70px;
+    align-items: center !important;
+    border: 4px solid #3d763e;
+    border-radius: 40px;
+}
+
+.tenth-page-subscibre-btn {
+    width: 600px;
+    height: 70px;
+    background-color: #3d763e;
+    color: #ffff;
+    font-size: 30px;
+    margin-top: 30px;
+    border-radius: 40px;
+}
+
+/* last page */
+.last-page {
+    height: 500px;
+    background-color: #3d763e;
+    width: 1531px;
+}
+
+.last-page-heading {
+    color: #ffff;
+    font-family: hello;
+    margin-top: 100px;
+
+}
+
+.last-page-text {
+    color: #ffff;
+    font-size: 20px;
+    margin-top: 20px;
+}
